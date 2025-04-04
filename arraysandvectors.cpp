@@ -7,7 +7,7 @@ int main() {
     //declaring an array of 5 integers
     int myNum[5] = {10, 20, 30, 40, 50};
     
-    // Printing original values
+    // Printing original array
     cout << "Original Array: ";
     for (int i = 0; i < 5; i++) {
         cout << myNum[i] << " ";
